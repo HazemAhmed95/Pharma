@@ -1,0 +1,60 @@
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\bin\Debug\pharmacy1.exe.config
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\bin\Debug\pharmacy1.exe
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\bin\Debug\pharmacy1.pdb
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Form1.resources
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Page1.resources
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Properties.Resources.resources
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.csproj.GenerateResource.Cache
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.exe
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.pdb
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.csprojResolveAssemblyReference.cache
+c:\users\kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Medicinne.resources
+C:\Users\Kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.addMed.resources
+C:\Users\Kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Billss.resources
+C:\Users\Kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.DeletMedicine.resources
+C:\Users\Kareem\documents\visual studio 2013\Projects\pharmacy1\pharmacy1\obj\Debug\pharmacy1.ABOUT.resources
+D:\pharmacy1\pharmacy1\bin\Debug\pharmacy1.exe.config
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.exe
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.pdb
+D:\pharmacy1\pharmacy1\bin\Debug\pharmacy1.exe
+D:\pharmacy1\pharmacy1\bin\Debug\pharmacy1.pdb
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.ABOUT.resources
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.addMed.resources
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Billss.resources
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.DeletMedicine.resources
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Form1.resources
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Medicinne.resources
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Page1.resources
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Properties.Resources.resources
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.csproj.GenerateResource.Cache
+D:\pharmacy1\pharmacy1\obj\Debug\pharmacy1.csprojResolveAssemblyReference.cache
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\bin\Debug\pharmacy1.exe.config
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.exe
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.pdb
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.csprojResolveAssemblyReference.cache
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.ABOUT.resources
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.addMed.resources
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Billss.resources
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.DeletMedicine.resources
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Form1.resources
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Medicinne.resources
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Page1.resources
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Properties.Resources.resources
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.csproj.GenerateResource.Cache
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\bin\Debug\pharmacy1.exe
+C:\Users\Mina-pc\Desktop\pharmacy1x\pharmacy1\bin\Debug\pharmacy1.pdb
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\bin\Debug\pharmacy1.exe.config
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.exe
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.pdb
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\bin\Debug\pharmacy1.exe
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.csprojResolveAssemblyReference.cache
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.ABOUT.resources
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.addMed.resources
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Billss.resources
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.DeletMedicine.resources
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Form1.resources
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Medicinne.resources
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Page1.resources
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.Properties.Resources.resources
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\obj\Debug\pharmacy1.csproj.GenerateResource.Cache
+C:\Users\Hazem\Desktop\pharmacy1x\pharmacy1x\pharmacy1\bin\Debug\pharmacy1.pdb

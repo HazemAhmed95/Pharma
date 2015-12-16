@@ -1,0 +1,10 @@
+lol,as,11,7
+test2,1,2,2
+mina,q,2,2
+zoro,los,5,3
+x,y,100,100
+y,y,10,10
+y,z,10,10
+z,n,10,10
+m,n,5,5
+meth,walterwhite,22,20
